@@ -13,7 +13,7 @@ export const HomeContainer = styled.div`
   flex-direction: row;
 `
 
-/** sidebar design */
+
 
 export const SideBarContainer = styled.div`
   display: none;
